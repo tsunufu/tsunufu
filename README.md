@@ -1,7 +1,8 @@
 ### Hi there 👋
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tsunufu&layout=compact)
+![tsunufu's Stats](https://github-readme-stats.vercel.app/api?username=tsunufu&theme=blueberry&show_icons=true&hide_border=true&count_private=true)
+![tsunufu's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tsunufu&theme=blueberry&show_icons=true&hide_border=true&layout=compact)
 <!--
 **tsunufu/tsunufu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
