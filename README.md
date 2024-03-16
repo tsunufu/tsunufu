@@ -5,7 +5,7 @@
 ![tsunufu's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tsunufu&theme=radical&show_icons=true&hide_border=true&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=p-x9&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=tsunufu&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 <!--
 **tsunufu/tsunufu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
