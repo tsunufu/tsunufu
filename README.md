@@ -2,7 +2,7 @@
 
 
 ![tsunufu's Stats](https://github-readme-stats.vercel.app/api?username=tsunufu&theme=radical&show_icons=true&hide_border=true&count_private=true)
-![tsunufu's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tsunufu&theme=radical&show_icons=true&hide_border=true&layout=compact)
+<!--![tsunufu's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tsunufu&theme=radical&show_icons=true&hide_border=true&layout=compact)-->
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=tsunufu&theme=radical&no-frame=false&no-bg=true&margin-w=4)
