@@ -1,22 +1,56 @@
-### Hi there 👋
+## Ryosuke Fujiwara (tsunufu)
 
+## 🛠 Tech Stack
 
-![tsunufu's Stats](https://github-readme-stats.vercel.app/api?username=tsunufu&theme=radical&show_icons=true&hide_border=true&count_private=true)
-<!--![tsunufu's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tsunufu&theme=radical&show_icons=true&hide_border=true&layout=compact)-->
+**Backend**
+- Python (FastAPI)
+- Go
+- Ruby (Sinatra / Rails)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=tsunufu&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-<!--
-**tsunufu/tsunufu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Frontend**
+- TypeScript / React / Next.js
+- Swift / SwiftUI
 
-Here are some ideas to get you started:
+**Infra**
+- Google Cloud
+- Amazon Web Service
+- Terraform
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## プロダクト一覧
+
+### EntryUp
+**AI採用チャットボット / SaaS**
+
+採用ページに埋め込む対話型AIチャットボット。  
+候補者体験（CX）の向上と応募率改善を目的に設計。
+
+- マルチテナントSaaS / 採用導線最適化
+- 導入企業向け管理コンソール・分析基盤
+
+🌐 https://entryup.jp
+
+---
+
+### Daadle
+**塗ろう、自分の街になるまで。/ iOS App**
+
+歩いた範囲が“陣地”になる位置情報 × 運動ゲーム。  
+運動を「義務」から「遊び」に変える体験を設計。
+
+- 位置情報ポリゴン生成・最適化
+- アルゴリズム設計（Convex Hull / Douglas–Peucker 等）
+- iOS / SwiftUI
+
+🌐 https://apps.apple.com/jp/app/daadle/id6670513007
+
+---
+
+## 🔗 Links
+
+- 💼 LinkedIn: https://www.linkedin.com/in/ryosuke-fujiwara-437998262/
+- 📫 Contact: tsunufu@gmail.com
+
+---
+
