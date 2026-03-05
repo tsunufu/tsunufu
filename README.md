@@ -18,7 +18,7 @@
 
 ---
 
-## プロダクト一覧
+## Product List
 
 ### EntryUp
 **AI採用チャットボット / SaaS**
